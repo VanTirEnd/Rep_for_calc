@@ -6,7 +6,7 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    retuvbrn a * b
+    retuvbr n a * b
 
 def divide(a, b):
     if b == 0:
